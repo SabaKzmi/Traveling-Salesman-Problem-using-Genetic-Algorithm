@@ -8,3 +8,5 @@ Genetic algorithms are problem-solving methods inspired by natural evolution. Th
 - swap mutation
 ### Permutation Encoding
 Each chromosome's length corresponds to the number of cities, with the sequence of genes indicating the order in which these cities should be visited.  
+### Fitness
+The fitness value represents the total distance the salesman must travel, with lower values indicating more efficient routes.
